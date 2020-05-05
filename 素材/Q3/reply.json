@@ -1,0 +1,38 @@
+[
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "家人",
+        "text": "Q4",
+        "data": "[:::Q3-1]family"
+      },
+      {
+        "type": "postback",
+        "label": "朋友",
+        "text": "Q4",
+        "data": "[:::Q3-2]friend"
+      },
+      {
+        "type": "postback",
+        "label": "情侶",
+        "text": "Q4",
+        "data": "[:::Q3-3]lover"
+      },
+      {
+        "type": "postback",
+        "label": "寵物",
+        "text": "Q4",
+        "data": "[:::Q3-4]pet"
+      }
+    ],
+    "thumbnailImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrMn96AtT9WleRDvcxDahqFmJhvWnRntsm9NNZxVQ_N1HFxybu",
+    "title": "我想和  __ 一起去旅行 ！",
+    "text": "-"
+  }
+}
+]

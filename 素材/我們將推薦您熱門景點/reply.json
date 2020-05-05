@@ -1,0 +1,122 @@
+[
+{
+  "type": "template",
+  "altText": "this is a carousel template",
+  "template": {
+    "type": "carousel",
+    "actions": [],
+    "columns": [
+      {
+        "thumbnailImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI5QgTsnu9vTmz0H4jkrcL_NiRKuO9A4gkVMHY-ZeLAvIDG2Rs",
+        "title": "台北の熱門景點",
+        "text": "-",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "site1",
+            "uri": "https://www.google.com/search?q=九份老街&oq=九份&aqs=chrome.1.69i57j0l7.5492j0j7&sourceid=chrome&ie=UTF-8"
+          },
+          {
+            "type": "uri",
+            "label": "site2",
+            "uri": "https://www.google.com/search?q=九份老街&oq=九份&aqs=chrome.1.69i57j0l7.5492j0j7&sourceid=chrome&ie=UTF-8"
+          },
+          {
+            "type": "uri",
+            "label": "site3",
+            "uri": "https://www.google.com/search?q=九份老街&oq=九份&aqs=chrome.1.69i57j0l7.5492j0j7&sourceid=chrome&ie=UTF-8"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqOpZPEmmqtvRR4xFOlYUVWuZi9yFw3DKHTy76z66NIL1ikQzc",
+        "title": "新北の熱門景點",
+        "text": "-",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "site1",
+            "uri": "https://www.google.com/search?q=九份老街&oq=九份&aqs=chrome.1.69i57j0l7.5492j0j7&sourceid=chrome&ie=UTF-8"
+          },
+          {
+            "type": "uri",
+            "label": "site2",
+            "uri": "https://www.google.com/search?q=九份老街&oq=九份&aqs=chrome.1.69i57j0l7.5492j0j7&sourceid=chrome&ie=UTF-8"
+          },
+          {
+            "type": "uri",
+            "label": "site3",
+            "uri": "https://www.google.com/search?q=九份老街&oq=九份&aqs=chrome.1.69i57j0l7.5492j0j7&sourceid=chrome&ie=UTF-8"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLqibV1o_tAwNWSu6DWh57r_59rjFKSw2DeoqQBz1boK4UjMJe",
+        "title": "基隆の熱門景點",
+        "text": "-",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "site1",
+            "uri": "https://www.google.com/search?q=九份老街&oq=九份&aqs=chrome.1.69i57j0l7.5492j0j7&sourceid=chrome&ie=UTF-8"
+          },
+          {
+            "type": "uri",
+            "label": "site2",
+            "uri": "https://www.google.com/search?q=九份老街&oq=九份&aqs=chrome.1.69i57j0l7.5492j0j7&sourceid=chrome&ie=UTF-8"
+          },
+          {
+            "type": "uri",
+            "label": "site3",
+            "uri": "https://www.google.com/search?q=九份老街&oq=九份&aqs=chrome.1.69i57j0l7.5492j0j7&sourceid=chrome&ie=UTF-8"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYeQVxXXn3VlkY_kIQlr_fby3w_7Zs97EWj5z2hJ328WqmXiV5",
+        "title": "宜蘭の熱門景點",
+        "text": "-",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "site1",
+            "uri": "https://www.google.com/search?q=九份老街&oq=九份&aqs=chrome.1.69i57j0l7.5492j0j7&sourceid=chrome&ie=UTF-8"
+          },
+          {
+            "type": "uri",
+            "label": "site2",
+            "uri": "https://www.google.com/search?q=九份老街&oq=九份&aqs=chrome.1.69i57j0l7.5492j0j7&sourceid=chrome&ie=UTF-8"
+          },
+          {
+            "type": "uri",
+            "label": "site3",
+            "uri": "https://www.google.com/search?q=九份老街&oq=九份&aqs=chrome.1.69i57j0l7.5492j0j7&sourceid=chrome&ie=UTF-8"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMKmvF2tUJj13FVTM6XLINeyq20X8RMFrwhiDrRD7Q29aOD9qp",
+        "title": "桃園の熱門景點",
+        "text": "-",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "site1",
+            "uri": "https://www.google.com/search?q=九份老街&oq=九份&aqs=chrome.1.69i57j0l7.5492j0j7&sourceid=chrome&ie=UTF-8"
+          },
+          {
+            "type": "uri",
+            "label": "site2",
+            "uri": "https://www.google.com/search?q=九份老街&oq=九份&aqs=chrome.1.69i57j0l7.5492j0j7&sourceid=chrome&ie=UTF-8"
+          },
+          {
+            "type": "uri",
+            "label": "site3",
+            "uri": "https://www.google.com/search?q=九份老街&oq=九份&aqs=chrome.1.69i57j0l7.5492j0j7&sourceid=chrome&ie=UTF-8"
+          }
+        ]
+      }
+    ]
+  }
+}
+]

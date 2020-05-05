@@ -1,0 +1,89 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "旅遊專題 - 圖文選單",
+  "chatBarText": "選單",
+  "areas": [
+    {
+      "bounds": {
+        "x": 21,
+        "y": 26,
+        "width": 803,
+        "height": 792
+      },
+      "action": {
+        "type": "postback",
+        "text": "回答幾個問題讓我們更了解您的旅遊喜好吧",
+        "data": "資料 1"
+      }
+    },
+    {
+      "bounds": {
+        "x": 870,
+        "y": 17,
+        "width": 759,
+        "height": 774
+      },
+      "action": {
+        "type": "postback",
+        "text": "我們將推薦您熱門景點",
+        "data": "資料 2"
+      }
+    },
+    {
+      "bounds": {
+        "x": 12,
+        "y": 850,
+        "width": 810,
+        "height": 811
+      },
+      "action": {
+        "type": "postback",
+        "text": "我們依您的喜好推薦您可能喜歡的行程",
+        "data": "資料 4"
+      }
+    },
+    {
+      "bounds": {
+        "x": 852,
+        "y": 855,
+        "width": 780,
+        "height": 805
+      },
+      "action": {
+        "type": "postback",
+        "text": "我們將提供您可參考的遊記",
+        "data": "資料 5"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1709,
+        "y": 841,
+        "width": 776,
+        "height": 795
+      },
+      "action": {
+        "type": "postback",
+        "text": "拍照解鎖成就",
+        "data": "資料 6"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1687,
+        "y": 41,
+        "width": 783,
+        "height": 771
+      },
+      "action": {
+        "type": "postback",
+        "text": "您想找下一個景點",
+        "data": "資料 3"
+      }
+    }
+  ]
+}

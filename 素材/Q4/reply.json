@@ -1,0 +1,32 @@
+[
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "靜態",
+        "text": "Q5",
+        "data": "[:::Q4-1]static"
+      },
+      {
+        "type": "postback",
+        "label": "能動能靜",
+        "text": "Q5",
+        "data": "[:::Q4-2]halfstatic"
+      },
+      {
+        "type": "postback",
+        "label": "動態",
+        "text": "Q5",
+        "data": "[:::Q4-3]dynamic"
+      }
+    ],
+    "thumbnailImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz6N6wK8MxiRmHDuGMdZLHxsfg9M9BF-37zj2BoW3Qzkia4dr_",
+    "title": "您的旅程偏好 - 動態 or 靜態？",
+    "text": "-"
+  }
+}
+]

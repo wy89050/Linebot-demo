@@ -1,0 +1,14 @@
+Flask
+Flask-Bootstrap
+Flask-Bootstrap4
+Flask-Moment
+Flask-WTF
+flask_paginate
+WTForms
+Jinja2
+line-bot-sdk
+redis
+confluent_kafka
+elasticsearch
+opencv-python
+gunicorn

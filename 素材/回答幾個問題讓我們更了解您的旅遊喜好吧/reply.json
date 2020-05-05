@@ -1,0 +1,38 @@
+[
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "雙北",
+        "text": "Q2",
+        "data": "[:::Q1-1]台北市,新北市"
+      },
+      {
+        "type": "postback",
+        "label": "基隆",
+        "text": "Q2",
+        "data": "[:::Q1-1]基隆市"
+      },
+      {
+        "type": "postback",
+        "label": "宜蘭",
+        "text": "Q2",
+        "data": "[:::Q1-1]宜蘭縣"
+      },
+      {
+        "type": "postback",
+        "label": "桃園",
+        "text": "Q2",
+        "data": "[:::Q1-1]桃園市"
+      }
+    ],
+    "thumbnailImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv1fMLTdWkPX1v881nrllXtJFJb_bYC6MTilfM6El7f39Bc3a0",
+    "title": "最近我想去這裡玩!!!",
+    "text": "-"
+  }
+}
+]

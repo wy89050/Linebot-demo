@@ -1,0 +1,137 @@
+[
+{
+  "type": "template",
+  "altText": "this is a carousel template",
+  "template": {
+    "type": "carousel",
+    "actions": [],
+    "columns": [
+      {
+        "thumbnailImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL1Sbskzvrbq5tRdq8OTg5qLSlid4AhmOTH00CEsO1lF0ibuhk",
+        "title": "台北",
+        "text": "-",
+        "actions": [
+          {
+            "type": "postback",
+            "label": "熱門景點照",
+            "text": "台北熱門景點的拍照視角有這些！！",
+            "data": "台北熱門景點的拍照視角有這些"
+          },
+          {
+            "type": "postback",
+            "label": "拍照解鎖",
+            "text": "拍照解鎖您的旅遊成就吧",
+            "data": "TPE_Camera"
+          },
+          {
+            "type": "postback",
+            "label": "上傳照片",
+            "text": "請上傳照片解鎖您的旅遊成就吧",
+            "data": "TPE_Photo"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM8K_2En_KzHAlz97w2vpImIWE129RBSIOdXePDzyeTmDG1y_R",
+        "title": "新北",
+        "text": "-",
+        "actions": [
+          {
+            "type": "postback",
+            "label": "熱門景點照",
+            "text": "新北熱門景點的拍照視角有這些！！",
+            "data": "新北熱門景點的拍照視角有這些"
+          },
+          {
+            "type": "postback",
+            "label": "拍照解鎖",
+            "text": "拍照解鎖您的旅遊成就吧",
+            "data": "STPE_Camera"
+          },
+          {
+            "type": "postback",
+            "label": "上傳照片",
+            "text": "請上傳照片解鎖您的旅遊成就吧",
+            "data": "STPE_Photo"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpaGtQD1rNM3-y2yznUTsNtLv-VGtm5XbHQvDQAOiS3Csw_Wkn",
+        "title": "基隆",
+        "text": "-",
+        "actions": [
+          {
+            "type": "postback",
+            "label": "熱門景點照",
+            "text": "基隆熱門景點的拍照視角有這些！！",
+            "data": "基隆熱門景點的拍照視角有這些"
+          },
+          {
+            "type": "postback",
+            "label": "拍照解鎖",
+            "text": "拍照解鎖您的旅遊成就吧",
+            "data": "KL_Camera"
+          },
+          {
+            "type": "postback",
+            "label": "上傳照片",
+            "text": "請上傳照片解鎖您的旅遊成就吧",
+            "data": "KL_Photo"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZPgQmHgy68slpmRlUIDJ-_r4QugZW3aj1xG-2u_Mrwv4CsKS5",
+        "title": "宜蘭",
+        "text": "-",
+        "actions": [
+          {
+            "type": "postback",
+            "label": "熱門景點照",
+            "text": "宜蘭熱門景點的拍照視角有這些！！",
+            "data": "宜蘭熱門景點的拍照視角有這些"
+          },
+          {
+            "type": "postback",
+            "label": "拍照解鎖",
+            "text": "拍照解鎖您的旅遊成就吧",
+            "data": "IL_Camera"
+          },
+          {
+            "type": "postback",
+            "label": "上傳照片",
+            "text": "請上傳照片解鎖您的旅遊成就吧",
+            "data": "IL_Photo"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpwLN7gdRhV7lCZeXZCJl3A-cl2FL4w4AUnfCYtzHtKwwX7bjT",
+        "title": "桃園",
+        "text": "-",
+        "actions": [
+          {
+            "type": "postback",
+            "label": "熱門景點照",
+            "text": "桃園熱門景點的拍照視角有這些！！",
+            "data": "桃園熱門景點的拍照視角有這些"
+          },
+          {
+            "type": "postback",
+            "label": "拍照解鎖",
+            "text": "拍照解鎖您的旅遊成就吧",
+            "data": "TY_Camera"
+          },
+          {
+            "type": "postback",
+            "label": "上傳照片",
+            "text": "請上傳照片解鎖您的旅遊成就吧",
+            "data": "TY_Photo"
+          }
+        ]
+      }
+    ]
+  }
+}
+]

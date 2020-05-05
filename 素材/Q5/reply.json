@@ -1,0 +1,32 @@
+[
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "人文風格",
+        "text": "你想走人文路線的旅行！",
+        "data": "[:::Q5-1]culture"
+      },
+      {
+        "type": "postback",
+        "label": "自然風格",
+        "text": "你想走自然風格的旅行！",
+        "data": "[:::Q5-1]nature"
+      },
+      {
+        "type": "postback",
+        "label": "購物觀光",
+        "text": "你想走購物觀光格的旅行！",
+        "data": "[:::Q5-3]shopping"
+      }
+    ],
+    "thumbnailImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJR76mkhKa_kAhOeoUdq6rGjhxpPISR59yUPgh8Y4OCELmjVNq",
+    "title": "我想喜歡這種類型的旅行!!!",
+    "text": "-"
+  }
+}
+]

@@ -1,0 +1,42 @@
+[
+{
+  "type": "text",
+  "text": "我們依您的喜好，\n推薦一系列景點，\n您可依這些景點安排屬於自己的專屬行程！"
+},
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "site1",
+        "text": "site1",
+        "data": "site1"
+      },
+      {
+        "type": "postback",
+        "label": "site2",
+        "text": "site2",
+        "data": "site2"
+      },
+      {
+        "type": "postback",
+        "label": "site3",
+        "text": "site3",
+        "data": "site3"
+      },
+      {
+        "type": "postback",
+        "label": "site4",
+        "text": "site4",
+        "data": "site4"
+      }
+    ],
+    "thumbnailImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwXxtyz3efIctwy6i51i9YPr1_Q-hjs6W0rdgWEgHFgC6uyRmT",
+    "title": "景點推薦清單",
+    "text": "您可以這樣安排您的行程"
+  }
+}
+]
